@@ -3,9 +3,11 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 body{
 margin:0;
 padding:0;
-background: #367BC8;
+background: #fff url(../images/bg.jpg) top center repeat-x;
 font-family: Helvetica Neue, Helvetica, Arial;
 color: #ffffff;
+width: 100%;
+height: 100%;
 }
 
 .content_wrapper{
@@ -32,7 +34,7 @@ margin-left: 24px;
 height: 388px;
 float: left;
 background: url(../images/iphone.png) left top no-repeat;
-padding: 111px 24px 0 27px;
+padding: 95px 24px 0 27px;
 }
 
 .logo_content{
